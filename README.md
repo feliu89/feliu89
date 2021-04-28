@@ -9,6 +9,6 @@
 
 ## More about me:
 
-🚀 It motivates me to be able to design products with a good user experience, a good design and learn new technologies. There is no greater satisfaction than bringing an idea to reality and being able to see that it is useful for other people.
+🚀 It motivates me to be able to design products with a good user experience, a good design and learning new technologies. There is no greater satisfaction than bringing an idea to reality and being able to see that it is useful for other people.
 
 ❤ I love music, traveling, reading, dogs and the fresh mountain air. 
