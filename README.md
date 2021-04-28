@@ -10,6 +10,6 @@ I am a Software Engineer experienced in Javascript. These are some the tech stac
 
 ## ❤ More about me:
 
-It motivates me to be able to design products with a good user experience, a good design and learning new technologies. There is no greater satisfaction than bringing an idea to reality and being able to see that it is useful for other people.
+It motivates me design products with a good user experience, a good design and learning new technologies. There is no greater satisfaction than bringing an idea to reality and knowing that is useful for other people.
 
-I love music, traveling, reading, dogs and the fresh mountain air. 
+I love listening to music, traveling, reading, dogs and the fresh air of the mountains. 
