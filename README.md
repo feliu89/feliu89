@@ -4,8 +4,8 @@
 
 # Project I'm working on:
 
-- **Concept**: A mobile application to manage any idea which can be shared to other people.
-- **[EnoughTime](https://github.com/feliu89/concept)**: A web and mobile application to register the time spent on doins your averyday tasks.
+- **[Concept](https://github.com/feliu89/concept)**: A mobile application to manage any idea which can be shared to other people.
+- **[EnoughTime](https://github.com/feliu89/enoughtime)**: A web and mobile application to register the time spent on doins your averyday tasks.
 
 # More about me:
 
