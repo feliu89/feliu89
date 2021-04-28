@@ -1,4 +1,6 @@
-# ✋ Hi there! My name is Arnau
+# Hi there! 
+
+## ✋ My name is Arnau
 
 I am a Software Engineer experienced in Javascript. These are some the tech stack I work with: Node.js, Express, Koa, GraphQL, MongoDB, PostgreSQL, React and React Native.
 
