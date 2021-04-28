@@ -1,6 +1,6 @@
 # Hi, I'm Arnau
 
-👋 Hello! I am a software engineer, experienced in Javascript. These are some of the tools I work with: Node.js, Express, Koa, GraphQL, MongoDB, PostgreSQL, React and React Native.
+👋 Hello! I am a Software Engineer experienced in Javascript. These are some the tech stack I work with: Node.js, Express, Koa, GraphQL, MongoDB, PostgreSQL, React and React Native.
 
 # Project I'm working on:
 
