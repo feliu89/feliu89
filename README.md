@@ -6,7 +6,7 @@ I am a Software Engineer experienced in Javascript. These are some the tech stac
 ## 🚀 Projects I'm working on:
 
 - **[Concept](https://github.com/feliu89/concept)**: A mobile application to manage any idea which can be shared to everyone.
-- **[EnoughTime](https://github.com/feliu89/enoughtime)**: A web application to register the time spent on your everyday tasks.
+- **[EnoughTime](https://github.com/feliu89/enoughtime)**: A web application to register and keep track of the time spent on your everyday tasks.
 
 ## ❤ More about me:
 
